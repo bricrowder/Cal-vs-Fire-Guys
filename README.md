@@ -1,4 +1,4 @@
-This a simply side scrolling action game.
+This a simple side scrolling action game.
 
 I made it for my 3 year old because he likes the Hulk, fire trucks and transformers.
 
